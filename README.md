@@ -1,12 +1,15 @@
 # droid-vnc-server
 
-VNC server for Android, tested working with Jelly Bean till Marshmallow
+VNC server for Android, tested working with h3droid
 
 ## Getting started
 
 Make sure Android SDK and NDK are installed
 
-    bash build.sh -wa API_LEVEL
+kitkat build:
+bash build.sh -a 19
+
+
 
 Specify API level with `-a`
 
