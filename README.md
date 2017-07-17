@@ -7,6 +7,8 @@ VNC server for Android, tested working with h3droid
 Make sure Android SDK and NDK are installed
 
 kitkat build:
+
+
 bash build.sh -a 19
 
 
